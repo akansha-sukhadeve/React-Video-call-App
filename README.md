@@ -1,5 +1,6 @@
 # React-Video-call-App
 A video call app
+<br>
 Link: https://morning-escarpment-67980.onrender.com  
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
@@ -8,7 +9,7 @@ Video call to your friend without registering.
 Simply send your friend your auto-generated unique ID to make the call.  
 Everytime you open a new tab, the server gives you a totally different unique ID.
 
-# Built with
+### Built with
     HTML
     CSS
     JavaScript
@@ -16,7 +17,7 @@ Everytime you open a new tab, the server gives you a totally different unique ID
     Node.js
     Express,js
 
-# Features
+### Features
     Voice call
     video call
     
