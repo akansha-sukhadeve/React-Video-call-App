@@ -9,7 +9,7 @@ Video call to your friend without registering.
 Simply send your friend your auto-generated unique ID to make the call.  
 Everytime you open a new tab, the server gives you a totally different unique ID.
 
-### Built with
+## Built with
     HTML
     CSS
     JavaScript
@@ -17,7 +17,7 @@ Everytime you open a new tab, the server gives you a totally different unique ID
     Node.js
     Express,js
 
-### Features
+## Features
     Voice call
     video call
     
