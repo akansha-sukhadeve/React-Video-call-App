@@ -10,16 +10,17 @@ Simply send your friend your auto-generated unique ID to make the call.
 Everytime you open a new tab, the server gives you a totally different unique ID.
 
 ## Built with
-    HTML
-    CSS
-    JavaScript
-    React.js
-    Node.js
-    Express,js
+1. HTML.
+2. CSS.
+3. JavaScript.
+4. React.js
+5. Node.js
+6. Express.js
 
 ## Features
-    Voice call
-    video call
+1. voice call.
+2. Video call.
+3. Responsive and fully working app.
     
 ### Installation
 
